@@ -1,2 +1,3 @@
 # myGitHubHello-WorldTutorial
-Recomended by GitHub repo from https://guides.github.com/activities/hello-world/
+Recomended tutorial by GitHub.
+From https://guides.github.com/activities/hello-world/

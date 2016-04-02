@@ -13,6 +13,7 @@ namespace FirstSolutionInHelloWorld
             Console.WriteLine("Hello World!");
             Console.WriteLine("Hello =)"); // This line I added from GitHub page
             Console.WriteLine("Hello2"); // This line I'm added from VS
+            Console.WriteLine("Hello3 =)"); // This line I added from GitHub page after Hello2
             Console.ReadKey();
         }
     }
